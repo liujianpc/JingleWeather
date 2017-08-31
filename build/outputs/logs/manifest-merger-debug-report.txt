@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:5:5-30
+		INJECTED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml
+		INJECTED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:4:5-28
+		INJECTED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml
+		INJECTED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fbf94eaa9840d1c5a45af084fdcacfa3719b3e91\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\93528deec35c31dd2d93cad5d6eb646cf785478f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\b14ba45c600d047dd9d27966432a83fbf84c3ab6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2a8a4e845738ffb6aa0487f906e3dbce7e73cee\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1314c14e798be93a4c9a6fb2b6d137bec7a3b3e2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:11:22-64
+application
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:13:5-33:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fbf94eaa9840d1c5a45af084fdcacfa3719b3e91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\93528deec35c31dd2d93cad5d6eb646cf785478f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\b14ba45c600d047dd9d27966432a83fbf84c3ab6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2a8a4e845738ffb6aa0487f906e3dbce7e73cee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1314c14e798be93a4c9a6fb2b6d137bec7a3b3e2\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:17:9-40
+activity#com.example.jingleweather.MainActivity
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:20:13-45
+	android:launchMode
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:19:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:25:27-74
+activity#com.example.jingleweather.AboutActivity
+ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from E:\EclipseWorkSpace\JingleWeather\AndroidManifest.xml:29:13-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\fbf94eaa9840d1c5a45af084fdcacfa3719b3e91\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\93528deec35c31dd2d93cad5d6eb646cf785478f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\b14ba45c600d047dd9d27966432a83fbf84c3ab6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2a8a4e845738ffb6aa0487f906e3dbce7e73cee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\1314c14e798be93a4c9a6fb2b6d137bec7a3b3e2\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\894422c48137f4482386bd0bd64744b365e222c9\output\AndroidManifest.xml:26:9-47

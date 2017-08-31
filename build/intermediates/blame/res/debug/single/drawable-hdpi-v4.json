@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\drawable-hdpi\\title.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\drawable-hdpi\\left.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\drawable-hdpi\\right.xml"
+    }
+]

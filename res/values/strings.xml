@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">坚果天气</string>
+    <string name="cityLabel">城市:</string>
+    <string name="pleaseInput">输入城市</string>
+    <string name="send">查询天气</string>
+    <string name="weatherContent">详细城市天气：</string>
+    <string name="showHere">天气将显示在这里</string>
+    <string name="title_content">坚果天气</string>
+    <string name="left">返回</string>
+    <string name="right">帮助</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_about">坚果天气</string>
+    <string name="author">【版权】：Powered by Jingle.\n</string>
+    <string name="intro">【帮助】：1、破解中国天气的官方API，有些城市没有AQI指数，请谅解。</string>
+    <string name="warn">【警告】：支持正版，利国利民！</string>
+    <string name="feedback">【反馈建议】：ljlovelife@foxmail.com</string>
+    <string name="hint">输入影歌曲名或歌手、专辑等关键词</string>
+    <string name="about_menu">帮助与关于</string>
+    <string name="exit_menu">退出程序</string>
+    <string name="title_activity_link_list_activity">坚果天气</string>
+    <string name="blank"></string>
+    <string name="title_activity_option">坚果天气</string>
+    <string name="alipay">支付宝赞助</string>
+    <string name="thank">你的赞赏，是我开发的动力。</string>
+    <string name="wechat">微信赞助</string>
+    <string name="go">发车</string>
+
+</resources>

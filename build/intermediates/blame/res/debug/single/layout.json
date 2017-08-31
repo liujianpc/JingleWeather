@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleWeather\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleWeather\\res\\layout\\activity_about.xml"
+    }
+]
